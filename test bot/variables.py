@@ -1,1 +1,3 @@
 BOT_API = '5938482492:AAF89Chzf295iLIzbXaszw-jreXGtXClo9c'
+
+API_KEY = '95f28776e9ecd37d33d1b732fec0dd82'
