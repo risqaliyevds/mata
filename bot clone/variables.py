@@ -1,0 +1,1 @@
+BOT_API = '5938482492:AAF89Chzf295iLIzbXaszw-jreXGtXClo9c'
